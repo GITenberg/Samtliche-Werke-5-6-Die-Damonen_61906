@@ -1,5 +1,5 @@
 _repo: Samtliche-Werke-5-6-Die-Damonen_61906
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Merezhkovsky, Dmitry Sergeyevich
@@ -25,6 +25,9 @@ contributor:
     gutenberg_agent_id: '49851'
     url: http://www.gutenberg.org/2009/agents/49851
     wikipedia: https://de.wikipedia.org/wiki/Elisabeth_Kaerrick
+covers:
+- cover_type: archival
+  image_path: 61906-h/images/cover.jpg
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -56,6 +59,8 @@ creator:
     - https://en.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
     - https://de.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61906#Samtliche-Werke-5-6-Die-Damonen
 gutenberg_issued: '2020-04-23'
 gutenberg_type: Text
 identifiers:
